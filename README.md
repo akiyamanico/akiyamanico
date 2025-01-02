@@ -1,16 +1,28 @@
 ## Hi there 👋
 
-<!--
-**akiyamanico/akiyamanico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
+I'm a passionate full-stack developer with expertise in building web applications from the ground up. 
+I enjoy working on challenging projects and continually expanding my skill set. With a strong background in both backend and frontend technologies, I aim to create seamless, high-performance applications that provide value to users.
+I also occasionally use **Python**, just for fun.
+---
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Backend
+- **Laravel**  
+- **Java Spring Boot**  
+- **JavaScript / Node.js**  
+- **Golang**
+
+### Database
+- **MySQL**  
+- **MongoDB**  
+- **PostgreSQL**
+
+### Frontend
+- **Laravel**  
+- **React.js / TypeScript (TSX)**  
+- **Next.js**  
+- **TailwindCSS**
+
+---
