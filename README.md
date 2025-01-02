@@ -11,7 +11,7 @@ I also occasionally use **Python**, just for fun.
 ### Backend
 - **Laravel**  
 - **Java Spring Boot**  
-- **JavaScript / Node.js**  
+- **Node.js**  
 - **Golang**
 
 ### Database
